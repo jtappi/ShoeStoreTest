@@ -1,0 +1,12 @@
+C:\Users\jt.bhatt\Documents\Visual Studio 2015\Projects\ShoeStoreTest\ShoeStoreTest\bin\Debug\ShoeStoreTest.dll.config
+C:\Users\jt.bhatt\Documents\Visual Studio 2015\Projects\ShoeStoreTest\ShoeStoreTest\bin\Debug\ShoeStoreTest.dll
+C:\Users\jt.bhatt\Documents\Visual Studio 2015\Projects\ShoeStoreTest\ShoeStoreTest\bin\Debug\ShoeStoreTest.pdb
+C:\Users\jt.bhatt\Documents\Visual Studio 2015\Projects\ShoeStoreTest\ShoeStoreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jt.bhatt\Documents\Visual Studio 2015\Projects\ShoeStoreTest\ShoeStoreTest\bin\Debug\nunit.framework.dll
+C:\Users\jt.bhatt\Documents\Visual Studio 2015\Projects\ShoeStoreTest\ShoeStoreTest\bin\Debug\WebDriver.dll
+C:\Users\jt.bhatt\Documents\Visual Studio 2015\Projects\ShoeStoreTest\ShoeStoreTest\bin\Debug\WebDriver.Support.dll
+C:\Users\jt.bhatt\Documents\Visual Studio 2015\Projects\ShoeStoreTest\ShoeStoreTest\bin\Debug\nunit.framework.xml
+C:\Users\jt.bhatt\Documents\Visual Studio 2015\Projects\ShoeStoreTest\ShoeStoreTest\bin\Debug\WebDriver.xml
+C:\Users\jt.bhatt\Documents\Visual Studio 2015\Projects\ShoeStoreTest\ShoeStoreTest\bin\Debug\WebDriver.Support.xml
+C:\Users\jt.bhatt\Documents\Visual Studio 2015\Projects\ShoeStoreTest\ShoeStoreTest\obj\Debug\ShoeStoreTest.dll
+C:\Users\jt.bhatt\Documents\Visual Studio 2015\Projects\ShoeStoreTest\ShoeStoreTest\obj\Debug\ShoeStoreTest.pdb
